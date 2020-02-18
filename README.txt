@@ -1,6 +1,7 @@
 
 TITLE: 
-DSC Stmik Cs We
+DSC Stmik Cs Web
+https://dsc-stmikcs.netlify.com/
 
 CREDITS:
 
